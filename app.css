@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(15, 15, 15);
+}
+
+.form{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+.searchbar{
+    margin-right: 10px;
+    border-radius: 5px;
+
+}
+
+.btn-primary{
+    margin-right: 10px;
+    box-shadow: 2px 2px 2px rgb(48, 48, 48);
+}
+
+.btn-danger{
+    box-shadow: 2px 2px 2px rgb(48, 48, 48);
+
+}
